@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 wo shi xiexiaokang
 who are you
-Creating asdf  new brach is quick & simple.
+Creating a  new brach is quick adn simple.
